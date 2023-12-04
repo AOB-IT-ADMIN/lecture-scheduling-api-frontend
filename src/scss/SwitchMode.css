@@ -1,0 +1,15 @@
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+.light .nav-link {
+  color: #000000;
+}
+
+.dark {
+  background-color: #000000;
+  color: #ffffff;
+}
+.dark .nav-link {
+  color: #ffffff;
+}/*# sourceMappingURL=SwitchMode.css.map */

@@ -1,0 +1,19 @@
+// SwitchMode.scss
+
+.light {
+  background-color: #ffffff; // Light background color
+  color: #000000; // Light text color
+
+  .nav-link {
+    color: #000000; // Light text color for navigation links
+  }
+}
+
+.dark {
+  background-color: #000000; // Dark background color
+  color: #ffffff; // Dark text color
+
+  .nav-link {
+    color: #ffffff; // Dark text color for navigation links
+  }
+}
